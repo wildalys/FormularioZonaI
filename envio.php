@@ -6,7 +6,7 @@ require 'PHPMailer-master/src/SMTP.php';
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
-//wildalys
+//wildalys hola
  class envio{
   function send($nombre,$mensaje,$asunto,$correo){
     
